@@ -1,0 +1,7 @@
+# Executables and Object Files
+*.exe
+*.o
+adrn
+
+# VS Code Metadata
+.vscode/
